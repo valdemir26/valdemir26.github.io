@@ -22,7 +22,7 @@
   <footer id="footer">
     <div class="container">      
       <h5 class="font-italic">
-      <div>Remasterização de imagens ISOs customizada do GNU/Linux</div>
+      <div>Criação de imagens ISOs customizada do GNU/Linux</div>
       </h5>
       <div class="social-links">
         <a href="https://github.com/valdemir26/Customize#readme" class="telegram"><i class="bx bxl-github"></i></a>
