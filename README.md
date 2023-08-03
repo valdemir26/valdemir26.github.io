@@ -10,8 +10,6 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/valdemir26/valdemir26.github.io/blob/main/LICENSE)
 <img src="https://komarev.com/ghpvc/?username=valdemir26&color=yellow" alt="Profile views" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Como+customizar+o+seu+GNU/Linux;rsync;zenity;chroot;squashfs-tools;genisoimage)](https://git.io/typing-svg)
-
 <p align="center">
    <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge" #vitrinedev/>
 </p>
