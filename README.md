@@ -14,7 +14,10 @@
    <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge" #vitrinedev/>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=valdemir26&color=yellow" alt="Profile views" /> 
+</p>   
+    <p align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=valdemir26&" alt="valdemir26"/>
+   </p>  
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=valdemir26&bg_color=0d1117&color=fff&line=0563bb&point=272829&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
